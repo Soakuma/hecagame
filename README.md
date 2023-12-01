@@ -1,1 +1,1 @@
-# hecagame2
+# hecagame
